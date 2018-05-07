@@ -1,0 +1,25 @@
+Drill report for C:\Users\Ernests\Desktop\PCB design\HW_PCB\Majsadarbi\VeA_KiCAD_prj\klasesdarbs\ONE_TRAN_AMP.kicad_pcb
+Created on 02.05.2018 11:06:20
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'ONE_TRAN_AMP.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0,60mm  0,024"  (3 holes)
+    T2  0,70mm  0,028"  (8 holes)
+    T3  1,00mm  0,039"  (6 holes)
+    T4  1,32mm  0,052"  (6 holes)
+
+    Total plated holes count 23
+
+
+Drill file 'ONE_TRAN_AMP-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0

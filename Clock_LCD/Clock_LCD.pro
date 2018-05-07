@@ -1,4 +1,4 @@
-update=06.05.2018 09:27:06
+update=05.03.2018 15:54:26
 version=1
 last_client=kicad
 [pcbnew]
@@ -61,4 +61,4 @@ LibName29=opto
 LibName30=atmel
 LibName31=contrib
 LibName32=valves
-LibName33=C:/Users/Ernests/Desktop/PCB design/HW_PCB/Majsadarbi/VeA_KiCAD_prj/Battery Holder Train/Battery-cache
+LibName33=C:/Users/Ernests/Desktop/Timer_RTC
