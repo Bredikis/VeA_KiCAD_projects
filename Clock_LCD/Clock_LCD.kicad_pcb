@@ -3,7 +3,7 @@
   (general
     (links 51)
     (no_connects 51)
-    (area 0 0 0 0)
+    (area 66.372381 26.595 225.125074 163.35)
     (thickness 1.6)
     (drawings 0)
     (tracks 0)
@@ -178,7 +178,7 @@
   )
 
   (module Battery_Holders:Keystone_103_1x20mm-CoinCell (layer F.Cu) (tedit 5787C32C) (tstamp 5AEEC212)
-    (at 197.95 68.58)
+    (at 177.63 97.79)
     (descr http://www.keyelco.com/product-pdf.cfm?p=719)
     (tags "Keystone type 103 battery holder")
     (path /5AC22C95)
